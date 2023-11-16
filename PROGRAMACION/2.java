@@ -23,7 +23,8 @@ public class Ejercicio11 {
             producto *=num;
         }
             System.out.println(producto);
-            System.out.println("Felicidades conseguiste un numero nuevo")z
+            System.out.println("Felicidades conseguiste un numero nuevo");
+            System.out.println("Lo siento mucho no conseguiste un nuevo numero");
     }
     
 }
