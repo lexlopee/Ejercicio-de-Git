@@ -1,0 +1,4 @@
+En la carpeta de BASES he escogido un archivo de .sql ya que se trabaja con esos archivos.
+En la carpeta de Fol he escogido un archivo .pdf ya que se trabaja con esos archivos.
+En la carpeta de MARCAS he escogido un archivo .html ya que se trabaja con esos archivos.
+En la carpeta de PROGRAMACION he escogido un archivo .java ya que se trabaja con esos archivos.
